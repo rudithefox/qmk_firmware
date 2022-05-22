@@ -51,8 +51,8 @@ KC_DQT,     KC_QUOT,  KC_UNDS, KC_GRV,  _______,      KC_ASTR,  KC_1,     KC_2, 
 ),
 
 [_ADJUST] =  LAYOUT( \
-  _______, KC_MS_BTN1, KC_MS_UP,   KC_MS_BTN2,   KC_MS_WH_UP,        		RESET,   KC_F1,    KC_F2,   KC_F3,    KC_F4, \
-  _______, KC_MS_LEFT, KC_MS_DOWN, KC_MS_RIGHT,  KC_MS_WH_DOWN,      		KC_TAB,  KC_F5, KC_F6, KC_F7,   KC_F8, \
+  KC_BRIU, KC_MS_BTN1, KC_MS_UP,   KC_MS_BTN2,   KC_MS_WH_UP,        		RESET,   KC_F1,    KC_F2,   KC_F3,    KC_F4, \
+  KC_BRID, KC_MS_LEFT, KC_MS_DOWN, KC_MS_RIGHT,  KC_MS_WH_DOWN,      		KC_TAB,  KC_F5, KC_F6, KC_F7,   KC_F8, \
   _______, _______,    _______,    _______,     _______,      				KC_LALT, KC_F9,  KC_F10, KC_F11,  KC_F12, \
                   	_______, _______, _______,                		_______, _______,  _______                    \
 )
